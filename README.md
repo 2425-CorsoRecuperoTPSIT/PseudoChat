@@ -41,5 +41,37 @@ Completare il javascript facendo le chiamate opportune al server locale o espost
 2. Richiedere le info dell'utente quando selezionato
 3. Aggiungere in coda i nuovi messaggi
 
+```json
+  {
+    "utenti":[
+      {
+        "nome":"daniele",
+        "ultimoMes":"14:00",
+        "genere":"m"
+      },
+      {
+        "nome":"giacomo",
+        "ultimoMes":"14:00",
+        "genere":"m"
+      },
+      {
+        "nome":"lorenzo",
+        "ultimoMes":"14:00",
+        "genere":"m"
+      },
+      {
+        "nome":"thomas",
+        "ultimoMes":"14:00",
+        "genere":"m"
+      },
+      {
+        "nome":"matilde",
+        "ultimoMes":"14:00",
+        "genere":"f"
+      }
+    ],
+    "messaggi":[]
+  }
+```
 
 
